@@ -1,4 +1,4 @@
 # github-demo
-this is my 1st repo
+This is my 1st Repository.
 <br>
 author - Sahil Raje
